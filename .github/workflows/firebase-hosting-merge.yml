@@ -17,5 +17,4 @@ jobs:
           repoToken: '${{ secrets.GITHUB_TOKEN }}'
           firebaseServiceAccount: '${{ secrets.FIREBASE_SERVICE_ACCOUNT_FIRST_HOSTING_780B4 }}'
           channelId: live
-          projectId: 
-gh-hosting-action
+          projectId: gh-hosting-action a9556d2
